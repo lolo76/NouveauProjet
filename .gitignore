@@ -1,0 +1,29 @@
+# Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders/
+.externalToolBuilders/
+*.launch
+
+# Java
+*.class
+*.log
+hs_err_pid*
+
+# Maven / Gradle
+target/
+build/
+.gradle/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
