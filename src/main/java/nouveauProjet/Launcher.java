@@ -1,4 +1,4 @@
-package nouveauareo;
+package nouveauProjet;
 
 /**
  * Point d'entrée du jar exécutable : une classe qui n'étend pas Application
